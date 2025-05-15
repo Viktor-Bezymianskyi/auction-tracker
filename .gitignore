@@ -1,0 +1,10 @@
+.env
+*.env 
+settings/.env
+*.env
+credentials.json
+.env
+*.log
+yahoo_api_logs/
+__pycache__/
+*.pyc
