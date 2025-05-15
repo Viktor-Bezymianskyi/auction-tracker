@@ -32,6 +32,14 @@ A comprehensive parser for Yahoo Auctions Japan with:
    ```bash
    cp .env.example .env
    ```
+## First Setup
+1. Copy the example file:
+```bash
+cp .env.example .env
+```
+2. Fill in your actual values in `.env`
+3. Never commit `.env` to version control!
+
 
 ## Configuration
 ### Proxy Settings
